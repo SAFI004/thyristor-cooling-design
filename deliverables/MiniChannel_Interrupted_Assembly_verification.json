@@ -1,0 +1,83 @@
+{
+  "status": "generated in Autodesk Fusion",
+  "components": [
+    {
+      "component": "01 Cold plate | Aluminium | 120 x 80 x 8",
+      "solid_bodies": 1,
+      "volume_mm3": 63737.61242742054
+    },
+    {
+      "component": "02 Bottom cover | Aluminium | 120 x 80 x 6",
+      "solid_bodies": 1,
+      "volume_mm3": 56849.543418404166
+    },
+    {
+      "component": "03 Recessed flat gasket | compressed envelope 0.4 mm",
+      "solid_bodies": 1,
+      "volume_mm3": 252.80000000000103
+    },
+    {
+      "component": "04 Thermal interface | assumed 0.2 mm",
+      "solid_bodies": 1,
+      "volume_mm3": 521.9178766226503
+    },
+    {
+      "component": "05 SCR mounting flange | GENERIC envelope",
+      "solid_bodies": 1,
+      "volume_mm3": 7818.467261182827
+    },
+    {
+      "component": "06 Thyristor housing | GENERIC not manufacturer geometry",
+      "solid_bodies": 1,
+      "volume_mm3": 31931.32741228718
+    },
+    {
+      "component": "07 Power terminals | illustrative",
+      "solid_bodies": 2,
+      "volume_mm3": 653.4512719467048
+    },
+    {
+      "component": "08 Gate connector | illustrative",
+      "solid_bodies": 1,
+      "volume_mm3": 28.27433388230709
+    },
+    {
+      "component": "09 Inlet hose adapter | conceptual seat and barb",
+      "solid_bodies": 2,
+      "volume_mm3": 728.9123274859354
+    },
+    {
+      "component": "09 Inlet identification ring",
+      "solid_bodies": 1,
+      "volume_mm3": 49.26017280829012
+    },
+    {
+      "component": "10 Outlet hose adapter | conceptual seat and barb",
+      "solid_bodies": 2,
+      "volume_mm3": 728.9123274859354
+    },
+    {
+      "component": "10 Outlet identification ring",
+      "solid_bodies": 1,
+      "volume_mm3": 49.26017280829012
+    },
+    {
+      "component": "11 Cover bolts | simplified M4 shanks and socket heads",
+      "solid_bodies": 8,
+      "volume_mm3": 2388.615726377291
+    },
+    {
+      "component": "12 Cover nuts | simplified round envelopes",
+      "solid_bodies": 8,
+      "volume_mm3": 675.5680842279788
+    },
+    {
+      "component": "13 Module screws | thread envelopes omitted",
+      "solid_bodies": 2,
+      "volume_mm3": 282.2846662956693
+    }
+  ],
+  "feature_health": "all healthy",
+  "warnings": [],
+  "scope": "CAD concept only; device, fittings, seals and performance not qualified"
+}

@@ -1,0 +1,9 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "script",
+  "author": "",
+  "description": {"": "Creates provisional straight and interrupted mini-channel cold plate concepts."},
+  "version": "0.1.0",
+  "runOnStartup": false,
+  "supportedOS": "windows|mac"
+}

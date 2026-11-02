@@ -1,0 +1,74 @@
+{
+  "feature_issues": [],
+  "solid_bodies": 40,
+  "components": [
+    {
+      "name": "01 Cold plate | 6061-T6 Aluminium | 120 x 80 x 12 mm",
+      "bodies": 1
+    },
+    {
+      "name": "02 Perimeter sealing gasket | 0.5 mm silicone",
+      "bodies": 1
+    },
+    {
+      "name": "03 Bottom manifold cover | 6061-T6 Aluminium",
+      "bodies": 1
+    },
+    {
+      "name": "04 Inlet hose barb fitting | 6 mm bore",
+      "bodies": 1
+    },
+    {
+      "name": "05 Inlet anodized identification ring",
+      "bodies": 1
+    },
+    {
+      "name": "04 Outlet hose barb fitting | 6 mm bore",
+      "bodies": 1
+    },
+    {
+      "name": "05 Outlet anodized identification ring",
+      "bodies": 1
+    },
+    {
+      "name": "06 Thermal interface pad (TIM) | 0.2 mm",
+      "bodies": 1
+    },
+    {
+      "name": "07 SCR baseplate | Generic envelope 68 x 22 x 3.5 mm",
+      "bodies": 1
+    },
+    {
+      "name": "08 Thyristor housing | Generic academic envelope",
+      "bodies": 1
+    },
+    {
+      "name": "09 Power terminals | Copper pads & M6 Brass studs",
+      "bodies": 3
+    },
+    {
+      "name": "10 Gate & auxiliary trigger terminals",
+      "bodies": 2
+    },
+    {
+      "name": "11 SCR M5 socket head cap screws",
+      "bodies": 2
+    },
+    {
+      "name": "12 Cover perimeter bolts | 8x M4 socket cap screws",
+      "bodies": 8
+    },
+    {
+      "name": "13 Cover nuts | 8x M4 hex nuts",
+      "bodies": 8
+    },
+    {
+      "name": "14 Temperature sensor | Illustrative placement; probe detail pending",
+      "bodies": 3
+    },
+    {
+      "name": "15 Lab test bench elevation standoffs & feet",
+      "bodies": 4
+    }
+  ]
+}

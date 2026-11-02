@@ -1,0 +1,459 @@
+{
+  "repairs": [
+    "SCR blind pilot holes reduced to 4 mm; threads conceptual",
+    "Restricted 04 Inlet hose barb fitting | 6 mm bore bore to its own body",
+    "Restricted 04 Outlet hose barb fitting | 6 mm bore bore to its own body"
+  ],
+  "features": [
+    {
+      "component": "01 Cold plate | 6061-T6 Aluminium | 120 x 80 x 12 mm",
+      "name": "Cold plate stock"
+    },
+    {
+      "component": "01 Cold plate | 6061-T6 Aluminium | 120 x 80 x 12 mm",
+      "name": "16 Mini-Channels | 2 x 5 x 70 mm"
+    },
+    {
+      "component": "01 Cold plate | 6061-T6 Aluminium | 120 x 80 x 12 mm",
+      "name": "Headers"
+    },
+    {
+      "component": "01 Cold plate | 6061-T6 Aluminium | 120 x 80 x 12 mm",
+      "name": "Boundary-layer breaks"
+    },
+    {
+      "component": "01 Cold plate | 6061-T6 Aluminium | 120 x 80 x 12 mm",
+      "name": "Gasket groove 1"
+    },
+    {
+      "component": "01 Cold plate | 6061-T6 Aluminium | 120 x 80 x 12 mm",
+      "name": "Gasket groove 2"
+    },
+    {
+      "component": "01 Cold plate | 6061-T6 Aluminium | 120 x 80 x 12 mm",
+      "name": "Gasket groove 3"
+    },
+    {
+      "component": "01 Cold plate | 6061-T6 Aluminium | 120 x 80 x 12 mm",
+      "name": "Gasket groove 4"
+    },
+    {
+      "component": "01 Cold plate | 6061-T6 Aluminium | 120 x 80 x 12 mm",
+      "name": "Fluid port through-bores"
+    },
+    {
+      "component": "01 Cold plate | 6061-T6 Aluminium | 120 x 80 x 12 mm",
+      "name": "Cover bolt holes"
+    },
+    {
+      "component": "01 Cold plate | 6061-T6 Aluminium | 120 x 80 x 12 mm",
+      "name": "SCR M5 tapped holes"
+    },
+    {
+      "component": "01 Cold plate | 6061-T6 Aluminium | 120 x 80 x 12 mm",
+      "name": "Thermowell entry boss"
+    },
+    {
+      "component": "02 Perimeter sealing gasket | 0.5 mm silicone",
+      "name": "Gasket blank"
+    },
+    {
+      "component": "02 Perimeter sealing gasket | 0.5 mm silicone",
+      "name": "Gasket fluid aperture"
+    },
+    {
+      "component": "03 Bottom manifold cover | 6061-T6 Aluminium",
+      "name": "Bottom cover slab"
+    },
+    {
+      "component": "03 Bottom manifold cover | 6061-T6 Aluminium",
+      "name": "Cover bolt holes"
+    },
+    {
+      "component": "04 Inlet hose barb fitting | 6 mm bore",
+      "name": "Hex collar"
+    },
+    {
+      "component": "04 Inlet hose barb fitting | 6 mm bore",
+      "name": "Barb stem"
+    },
+    {
+      "component": "04 Inlet hose barb fitting | 6 mm bore",
+      "name": "Retention barb bead"
+    },
+    {
+      "component": "04 Inlet hose barb fitting | 6 mm bore",
+      "name": "Continuous fluid bore"
+    },
+    {
+      "component": "04 Inlet hose barb fitting | 6 mm bore",
+      "name": "Ring bore"
+    },
+    {
+      "component": "05 Inlet anodized identification ring",
+      "name": "Identifier ring"
+    },
+    {
+      "component": "05 Inlet anodized identification ring",
+      "name": "Extrude2"
+    },
+    {
+      "component": "04 Outlet hose barb fitting | 6 mm bore",
+      "name": "Hex collar"
+    },
+    {
+      "component": "04 Outlet hose barb fitting | 6 mm bore",
+      "name": "Barb stem"
+    },
+    {
+      "component": "04 Outlet hose barb fitting | 6 mm bore",
+      "name": "Retention barb bead"
+    },
+    {
+      "component": "04 Outlet hose barb fitting | 6 mm bore",
+      "name": "Continuous fluid bore"
+    },
+    {
+      "component": "04 Outlet hose barb fitting | 6 mm bore",
+      "name": "Ring bore"
+    },
+    {
+      "component": "05 Outlet anodized identification ring",
+      "name": "Identifier ring"
+    },
+    {
+      "component": "05 Outlet anodized identification ring",
+      "name": "Extrude2"
+    },
+    {
+      "component": "06 Thermal interface pad (TIM) | 0.2 mm",
+      "name": "TIM envelope"
+    },
+    {
+      "component": "06 Thermal interface pad (TIM) | 0.2 mm",
+      "name": "TIM bolt clearance"
+    },
+    {
+      "component": "07 SCR copper baseplate | 92 x 22 x 3.5 mm",
+      "name": "Copper baseplate"
+    },
+    {
+      "component": "07 SCR copper baseplate | 92 x 22 x 3.5 mm",
+      "name": "U-bolt mounting slots"
+    },
+    {
+      "component": "08 Thyristor housing | TY160D40 Molded PBT",
+      "name": "SCR plastic body"
+    },
+    {
+      "component": "08 Thyristor housing | TY160D40 Molded PBT",
+      "name": "Phase isolation barriers"
+    },
+    {
+      "component": "09 Power terminals | Copper pads & M6 Brass studs",
+      "name": "Pad_42.0"
+    },
+    {
+      "component": "09 Power terminals | Copper pads & M6 Brass studs",
+      "name": "Stud_42.0"
+    },
+    {
+      "component": "09 Power terminals | Copper pads & M6 Brass studs",
+      "name": "Nut_42.0"
+    },
+    {
+      "component": "09 Power terminals | Copper pads & M6 Brass studs",
+      "name": "Pad_60.0"
+    },
+    {
+      "component": "09 Power terminals | Copper pads & M6 Brass studs",
+      "name": "Stud_60.0"
+    },
+    {
+      "component": "09 Power terminals | Copper pads & M6 Brass studs",
+      "name": "Nut_60.0"
+    },
+    {
+      "component": "09 Power terminals | Copper pads & M6 Brass studs",
+      "name": "Pad_78.0"
+    },
+    {
+      "component": "09 Power terminals | Copper pads & M6 Brass studs",
+      "name": "Stud_78.0"
+    },
+    {
+      "component": "09 Power terminals | Copper pads & M6 Brass studs",
+      "name": "Nut_78.0"
+    },
+    {
+      "component": "10 Gate & auxiliary trigger terminals",
+      "name": "Gate pins"
+    },
+    {
+      "component": "11 SCR M5 socket head cap screws",
+      "name": "Head_32.0"
+    },
+    {
+      "component": "11 SCR M5 socket head cap screws",
+      "name": "Shank_32.0"
+    },
+    {
+      "component": "11 SCR M5 socket head cap screws",
+      "name": "Head_88.0"
+    },
+    {
+      "component": "11 SCR M5 socket head cap screws",
+      "name": "Shank_88.0"
+    },
+    {
+      "component": "12 Cover perimeter bolts | 8x M4 socket cap screws",
+      "name": "BHead_5_8"
+    },
+    {
+      "component": "12 Cover perimeter bolts | 8x M4 socket cap screws",
+      "name": "BShank_5_8"
+    },
+    {
+      "component": "12 Cover perimeter bolts | 8x M4 socket cap screws",
+      "name": "BHead_75_8"
+    },
+    {
+      "component": "12 Cover perimeter bolts | 8x M4 socket cap screws",
+      "name": "BShank_75_8"
+    },
+    {
+      "component": "12 Cover perimeter bolts | 8x M4 socket cap screws",
+      "name": "BHead_5_40"
+    },
+    {
+      "component": "12 Cover perimeter bolts | 8x M4 socket cap screws",
+      "name": "BShank_5_40"
+    },
+    {
+      "component": "12 Cover perimeter bolts | 8x M4 socket cap screws",
+      "name": "BHead_75_40"
+    },
+    {
+      "component": "12 Cover perimeter bolts | 8x M4 socket cap screws",
+      "name": "BShank_75_40"
+    },
+    {
+      "component": "12 Cover perimeter bolts | 8x M4 socket cap screws",
+      "name": "BHead_5_80"
+    },
+    {
+      "component": "12 Cover perimeter bolts | 8x M4 socket cap screws",
+      "name": "BShank_5_80"
+    },
+    {
+      "component": "12 Cover perimeter bolts | 8x M4 socket cap screws",
+      "name": "BHead_75_80"
+    },
+    {
+      "component": "12 Cover perimeter bolts | 8x M4 socket cap screws",
+      "name": "BShank_75_80"
+    },
+    {
+      "component": "12 Cover perimeter bolts | 8x M4 socket cap screws",
+      "name": "BHead_5_112"
+    },
+    {
+      "component": "12 Cover perimeter bolts | 8x M4 socket cap screws",
+      "name": "BShank_5_112"
+    },
+    {
+      "component": "12 Cover perimeter bolts | 8x M4 socket cap screws",
+      "name": "BHead_75_112"
+    },
+    {
+      "component": "12 Cover perimeter bolts | 8x M4 socket cap screws",
+      "name": "BShank_75_112"
+    },
+    {
+      "component": "13 Cover nuts | 8x M4 hex nuts",
+      "name": "Nut_5_8"
+    },
+    {
+      "component": "13 Cover nuts | 8x M4 hex nuts",
+      "name": "NutBore_5_8"
+    },
+    {
+      "component": "13 Cover nuts | 8x M4 hex nuts",
+      "name": "Nut_75_8"
+    },
+    {
+      "component": "13 Cover nuts | 8x M4 hex nuts",
+      "name": "NutBore_75_8"
+    },
+    {
+      "component": "13 Cover nuts | 8x M4 hex nuts",
+      "name": "Nut_5_40"
+    },
+    {
+      "component": "13 Cover nuts | 8x M4 hex nuts",
+      "name": "NutBore_5_40"
+    },
+    {
+      "component": "13 Cover nuts | 8x M4 hex nuts",
+      "name": "Nut_75_40"
+    },
+    {
+      "component": "13 Cover nuts | 8x M4 hex nuts",
+      "name": "NutBore_75_40"
+    },
+    {
+      "component": "13 Cover nuts | 8x M4 hex nuts",
+      "name": "Nut_5_80"
+    },
+    {
+      "component": "13 Cover nuts | 8x M4 hex nuts",
+      "name": "NutBore_5_80"
+    },
+    {
+      "component": "13 Cover nuts | 8x M4 hex nuts",
+      "name": "Nut_75_80"
+    },
+    {
+      "component": "13 Cover nuts | 8x M4 hex nuts",
+      "name": "NutBore_75_80"
+    },
+    {
+      "component": "13 Cover nuts | 8x M4 hex nuts",
+      "name": "Nut_5_112"
+    },
+    {
+      "component": "13 Cover nuts | 8x M4 hex nuts",
+      "name": "NutBore_5_112"
+    },
+    {
+      "component": "13 Cover nuts | 8x M4 hex nuts",
+      "name": "Nut_75_112"
+    },
+    {
+      "component": "13 Cover nuts | 8x M4 hex nuts",
+      "name": "NutBore_75_112"
+    },
+    {
+      "component": "14 K-Type Thermocouple Sensor Assembly",
+      "name": "Sensor probe in thermowell"
+    },
+    {
+      "component": "14 K-Type Thermocouple Sensor Assembly",
+      "name": "Probe sheath"
+    },
+    {
+      "component": "14 K-Type Thermocouple Sensor Assembly",
+      "name": "Brass compression gland"
+    },
+    {
+      "component": "14 K-Type Thermocouple Sensor Assembly",
+      "name": "Yellow connector plug"
+    },
+    {
+      "component": "14 K-Type Thermocouple Sensor Assembly",
+      "name": "Spade prongs"
+    },
+    {
+      "component": "15 Lab test bench elevation standoffs & feet",
+      "name": "Leg_6_6"
+    },
+    {
+      "component": "15 Lab test bench elevation standoffs & feet",
+      "name": "Foot_6_6"
+    },
+    {
+      "component": "15 Lab test bench elevation standoffs & feet",
+      "name": "Leg_74_6"
+    },
+    {
+      "component": "15 Lab test bench elevation standoffs & feet",
+      "name": "Foot_74_6"
+    },
+    {
+      "component": "15 Lab test bench elevation standoffs & feet",
+      "name": "Leg_6_114"
+    },
+    {
+      "component": "15 Lab test bench elevation standoffs & feet",
+      "name": "Foot_6_114"
+    },
+    {
+      "component": "15 Lab test bench elevation standoffs & feet",
+      "name": "Leg_74_114"
+    },
+    {
+      "component": "15 Lab test bench elevation standoffs & feet",
+      "name": "Foot_74_114"
+    }
+  ],
+  "components": [
+    {
+      "name": "01 Cold plate | 6061-T6 Aluminium | 120 x 80 x 12 mm",
+      "bodies": 1
+    },
+    {
+      "name": "02 Perimeter sealing gasket | 0.5 mm silicone",
+      "bodies": 1
+    },
+    {
+      "name": "03 Bottom manifold cover | 6061-T6 Aluminium",
+      "bodies": 1
+    },
+    {
+      "name": "04 Inlet hose barb fitting | 6 mm bore",
+      "bodies": 2
+    },
+    {
+      "name": "05 Inlet anodized identification ring",
+      "bodies": 1
+    },
+    {
+      "name": "04 Outlet hose barb fitting | 6 mm bore",
+      "bodies": 2
+    },
+    {
+      "name": "05 Outlet anodized identification ring",
+      "bodies": 1
+    },
+    {
+      "name": "06 Thermal interface pad (TIM) | 0.2 mm",
+      "bodies": 1
+    },
+    {
+      "name": "07 SCR copper baseplate | 92 x 22 x 3.5 mm",
+      "bodies": 1
+    },
+    {
+      "name": "08 Thyristor housing | TY160D40 Molded PBT",
+      "bodies": 1
+    },
+    {
+      "name": "09 Power terminals | Copper pads & M6 Brass studs",
+      "bodies": 3
+    },
+    {
+      "name": "10 Gate & auxiliary trigger terminals",
+      "bodies": 2
+    },
+    {
+      "name": "11 SCR M5 socket head cap screws",
+      "bodies": 2
+    },
+    {
+      "name": "12 Cover perimeter bolts | 8x M4 socket cap screws",
+      "bodies": 8
+    },
+    {
+      "name": "13 Cover nuts | 8x M4 hex nuts",
+      "bodies": 8
+    },
+    {
+      "name": "14 K-Type Thermocouple Sensor Assembly",
+      "bodies": 3
+    },
+    {
+      "name": "15 Lab test bench elevation standoffs & feet",
+      "bodies": 4
+    }
+  ]
+}

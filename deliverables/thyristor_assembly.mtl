@@ -1,0 +1,77 @@
+newmtl Aluminum_6061
+  Kd 0.78 0.82 0.85
+  Ks 0.9 0.9 0.9
+  Ns 80
+  d 1.0
+  illum 2
+
+newmtl Matte_Black_PBT
+  Kd 0.08 0.08 0.09
+  Ks 0.2 0.2 0.2
+  Ns 25
+  d 1.0
+  illum 2
+
+newmtl Fan_Gloss_Black
+  Kd 0.12 0.12 0.13
+  Ks 0.6 0.6 0.6
+  Ns 60
+  d 1.0
+  illum 2
+
+newmtl Polished_Copper
+  Kd 0.85 0.45 0.22
+  Ks 0.95 0.7 0.4
+  Ns 100
+  d 1.0
+  illum 2
+
+newmtl Polished_Brass
+  Kd 0.82 0.68 0.25
+  Ks 0.9 0.8 0.4
+  Ns 90
+  d 1.0
+  illum 2
+
+newmtl Stainless_Steel
+  Kd 0.75 0.76 0.78
+  Ks 0.85 0.85 0.85
+  Ns 95
+  d 1.0
+  illum 2
+
+newmtl Yellow_Connector
+  Kd 0.95 0.82 0.12
+  Ks 0.3 0.3 0.3
+  Ns 30
+  d 1.0
+  illum 2
+
+newmtl Thermal_Pad_TIM
+  Kd 0.45 0.55 0.65
+  Ks 0.1 0.1 0.1
+  Ns 10
+  d 1.0
+  illum 2
+
+newmtl Clear_Air_Shroud
+  Kd 0.3 0.5 0.7
+  Ks 0.8 0.8 0.8
+  Ns 120
+  d 0.6
+  illum 2
+
+newmtl Bench_Mount_Base
+  Kd 0.25 0.27 0.30
+  Ks 0.5 0.5 0.5
+  Ns 40
+  d 1.0
+  illum 2
+
+newmtl Rubber_Feet
+  Kd 0.04 0.04 0.04
+  Ks 0.05 0.05 0.05
+  Ns 10
+  d 1.0
+  illum 2
+

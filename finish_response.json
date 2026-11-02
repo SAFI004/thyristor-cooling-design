@@ -1,0 +1,12 @@
+{
+  "id": 2,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n    \"message\": \"{\\\"success\\\": true, \\\"solids\\\": 40, \\\"feature_issues\\\": []}\\n\",\n    \"success\": true\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

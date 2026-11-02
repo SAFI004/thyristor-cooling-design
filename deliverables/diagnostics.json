@@ -1,0 +1,1407 @@
+{
+  "appearances": [
+    {
+      "name": "Steel - Satin",
+      "properties": [
+        {
+          "id": "interior_model",
+          "name": "Material Type",
+          "type": "adsk::core::IntegerProperty"
+        },
+        {
+          "id": "metal_f0",
+          "name": "Color",
+          "type": "adsk::core::ColorProperty"
+        },
+        {
+          "id": "metal_f0_colorspace",
+          "name": "Color space",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "metal_f0_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_albedo",
+          "name": "Color",
+          "type": "adsk::core::ColorProperty"
+        },
+        {
+          "id": "surface_albedo_colorspace",
+          "name": "Color space",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "surface_albedo_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_anisotropy",
+          "name": "Anisotropy",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "surface_anisotropy_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_cutout",
+          "name": "Image",
+          "type": "adsk::core::AppearanceTextureProperty"
+        },
+        {
+          "id": "surface_cutout_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_ndf_type",
+          "name": "NDF",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "surface_normal",
+          "name": "Image",
+          "type": "adsk::core::AppearanceTextureProperty"
+        },
+        {
+          "id": "surface_normal_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_rotation",
+          "name": "Rotation",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "surface_rotation_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_roughness",
+          "name": "Roughness",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "surface_roughness_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        }
+      ]
+    },
+    {
+      "name": "CP Dark",
+      "properties": [
+        {
+          "id": "interior_model",
+          "name": "Material Type",
+          "type": "adsk::core::IntegerProperty"
+        },
+        {
+          "id": "opaque_albedo",
+          "name": "Color",
+          "type": "adsk::core::ColorProperty"
+        },
+        {
+          "id": "opaque_albedo_colorspace",
+          "name": "Color space",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "opaque_albedo_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "opaque_emission",
+          "name": "Emission",
+          "type": "adsk::core::BooleanProperty"
+        },
+        {
+          "id": "opaque_f0",
+          "name": "Reflectance",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "opaque_f0_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "opaque_luminance",
+          "name": "Emissive Luminance",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "opaque_luminance_modifier",
+          "name": "Luminance Scale",
+          "type": "adsk::core::ColorProperty"
+        },
+        {
+          "id": "opaque_luminance_modifier_colorspace",
+          "name": "Color space",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "opaque_luminance_modifier_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "opaque_mfp",
+          "name": "Depth",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "opaque_mfp_modifier",
+          "name": "Weight",
+          "type": "adsk::core::ColorProperty"
+        },
+        {
+          "id": "opaque_mfp_modifier_colorspace",
+          "name": "Color space",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "opaque_mfp_modifier_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "opaque_translucency",
+          "name": "Translucency",
+          "type": "adsk::core::BooleanProperty"
+        },
+        {
+          "id": "surface_albedo",
+          "name": "Color",
+          "type": "adsk::core::ColorProperty"
+        },
+        {
+          "id": "surface_albedo_colorspace",
+          "name": "Color space",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "surface_albedo_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_anisotropy",
+          "name": "Anisotropy",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "surface_anisotropy_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_cutout",
+          "name": "Image",
+          "type": "adsk::core::AppearanceTextureProperty"
+        },
+        {
+          "id": "surface_cutout_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_ndf_type",
+          "name": "NDF",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "surface_normal",
+          "name": "Image",
+          "type": "adsk::core::AppearanceTextureProperty"
+        },
+        {
+          "id": "surface_normal_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_rotation",
+          "name": "Rotation",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "surface_rotation_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_roughness",
+          "name": "Roughness",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "surface_roughness_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        }
+      ]
+    },
+    {
+      "name": "CP Outlet",
+      "properties": [
+        {
+          "id": "interior_model",
+          "name": "Material Type",
+          "type": "adsk::core::IntegerProperty"
+        },
+        {
+          "id": "opaque_albedo",
+          "name": "Color",
+          "type": "adsk::core::ColorProperty"
+        },
+        {
+          "id": "opaque_albedo_colorspace",
+          "name": "Color space",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "opaque_albedo_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "opaque_emission",
+          "name": "Emission",
+          "type": "adsk::core::BooleanProperty"
+        },
+        {
+          "id": "opaque_f0",
+          "name": "Reflectance",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "opaque_f0_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "opaque_luminance",
+          "name": "Emissive Luminance",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "opaque_luminance_modifier",
+          "name": "Luminance Scale",
+          "type": "adsk::core::ColorProperty"
+        },
+        {
+          "id": "opaque_luminance_modifier_colorspace",
+          "name": "Color space",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "opaque_luminance_modifier_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "opaque_mfp",
+          "name": "Depth",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "opaque_mfp_modifier",
+          "name": "Weight",
+          "type": "adsk::core::ColorProperty"
+        },
+        {
+          "id": "opaque_mfp_modifier_colorspace",
+          "name": "Color space",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "opaque_mfp_modifier_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "opaque_translucency",
+          "name": "Translucency",
+          "type": "adsk::core::BooleanProperty"
+        },
+        {
+          "id": "surface_albedo",
+          "name": "Color",
+          "type": "adsk::core::ColorProperty"
+        },
+        {
+          "id": "surface_albedo_colorspace",
+          "name": "Color space",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "surface_albedo_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_anisotropy",
+          "name": "Anisotropy",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "surface_anisotropy_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_cutout",
+          "name": "Image",
+          "type": "adsk::core::AppearanceTextureProperty"
+        },
+        {
+          "id": "surface_cutout_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_ndf_type",
+          "name": "NDF",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "surface_normal",
+          "name": "Image",
+          "type": "adsk::core::AppearanceTextureProperty"
+        },
+        {
+          "id": "surface_normal_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_rotation",
+          "name": "Rotation",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "surface_rotation_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_roughness",
+          "name": "Roughness",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "surface_roughness_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        }
+      ]
+    },
+    {
+      "name": "CP Steel",
+      "properties": [
+        {
+          "id": "interior_model",
+          "name": "Material Type",
+          "type": "adsk::core::IntegerProperty"
+        },
+        {
+          "id": "opaque_albedo",
+          "name": "Color",
+          "type": "adsk::core::ColorProperty"
+        },
+        {
+          "id": "opaque_albedo_colorspace",
+          "name": "Color space",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "opaque_albedo_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "opaque_emission",
+          "name": "Emission",
+          "type": "adsk::core::BooleanProperty"
+        },
+        {
+          "id": "opaque_f0",
+          "name": "Reflectance",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "opaque_f0_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "opaque_luminance",
+          "name": "Emissive Luminance",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "opaque_luminance_modifier",
+          "name": "Luminance Scale",
+          "type": "adsk::core::ColorProperty"
+        },
+        {
+          "id": "opaque_luminance_modifier_colorspace",
+          "name": "Color space",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "opaque_luminance_modifier_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "opaque_mfp",
+          "name": "Depth",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "opaque_mfp_modifier",
+          "name": "Weight",
+          "type": "adsk::core::ColorProperty"
+        },
+        {
+          "id": "opaque_mfp_modifier_colorspace",
+          "name": "Color space",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "opaque_mfp_modifier_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "opaque_translucency",
+          "name": "Translucency",
+          "type": "adsk::core::BooleanProperty"
+        },
+        {
+          "id": "surface_albedo",
+          "name": "Color",
+          "type": "adsk::core::ColorProperty"
+        },
+        {
+          "id": "surface_albedo_colorspace",
+          "name": "Color space",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "surface_albedo_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_anisotropy",
+          "name": "Anisotropy",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "surface_anisotropy_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_cutout",
+          "name": "Image",
+          "type": "adsk::core::AppearanceTextureProperty"
+        },
+        {
+          "id": "surface_cutout_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_ndf_type",
+          "name": "NDF",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "surface_normal",
+          "name": "Image",
+          "type": "adsk::core::AppearanceTextureProperty"
+        },
+        {
+          "id": "surface_normal_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_rotation",
+          "name": "Rotation",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "surface_rotation_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_roughness",
+          "name": "Roughness",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "surface_roughness_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        }
+      ]
+    },
+    {
+      "name": "CP Seal",
+      "properties": [
+        {
+          "id": "interior_model",
+          "name": "Material Type",
+          "type": "adsk::core::IntegerProperty"
+        },
+        {
+          "id": "opaque_albedo",
+          "name": "Color",
+          "type": "adsk::core::ColorProperty"
+        },
+        {
+          "id": "opaque_albedo_colorspace",
+          "name": "Color space",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "opaque_albedo_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "opaque_emission",
+          "name": "Emission",
+          "type": "adsk::core::BooleanProperty"
+        },
+        {
+          "id": "opaque_f0",
+          "name": "Reflectance",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "opaque_f0_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "opaque_luminance",
+          "name": "Emissive Luminance",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "opaque_luminance_modifier",
+          "name": "Luminance Scale",
+          "type": "adsk::core::ColorProperty"
+        },
+        {
+          "id": "opaque_luminance_modifier_colorspace",
+          "name": "Color space",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "opaque_luminance_modifier_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "opaque_mfp",
+          "name": "Depth",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "opaque_mfp_modifier",
+          "name": "Weight",
+          "type": "adsk::core::ColorProperty"
+        },
+        {
+          "id": "opaque_mfp_modifier_colorspace",
+          "name": "Color space",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "opaque_mfp_modifier_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "opaque_translucency",
+          "name": "Translucency",
+          "type": "adsk::core::BooleanProperty"
+        },
+        {
+          "id": "surface_albedo",
+          "name": "Color",
+          "type": "adsk::core::ColorProperty"
+        },
+        {
+          "id": "surface_albedo_colorspace",
+          "name": "Color space",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "surface_albedo_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_anisotropy",
+          "name": "Anisotropy",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "surface_anisotropy_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_cutout",
+          "name": "Image",
+          "type": "adsk::core::AppearanceTextureProperty"
+        },
+        {
+          "id": "surface_cutout_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_ndf_type",
+          "name": "NDF",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "surface_normal",
+          "name": "Image",
+          "type": "adsk::core::AppearanceTextureProperty"
+        },
+        {
+          "id": "surface_normal_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_rotation",
+          "name": "Rotation",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "surface_rotation_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_roughness",
+          "name": "Roughness",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "surface_roughness_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        }
+      ]
+    },
+    {
+      "name": "CP Aluminium",
+      "properties": [
+        {
+          "id": "interior_model",
+          "name": "Material Type",
+          "type": "adsk::core::IntegerProperty"
+        },
+        {
+          "id": "opaque_albedo",
+          "name": "Color",
+          "type": "adsk::core::ColorProperty"
+        },
+        {
+          "id": "opaque_albedo_colorspace",
+          "name": "Color space",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "opaque_albedo_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "opaque_emission",
+          "name": "Emission",
+          "type": "adsk::core::BooleanProperty"
+        },
+        {
+          "id": "opaque_f0",
+          "name": "Reflectance",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "opaque_f0_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "opaque_luminance",
+          "name": "Emissive Luminance",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "opaque_luminance_modifier",
+          "name": "Luminance Scale",
+          "type": "adsk::core::ColorProperty"
+        },
+        {
+          "id": "opaque_luminance_modifier_colorspace",
+          "name": "Color space",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "opaque_luminance_modifier_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "opaque_mfp",
+          "name": "Depth",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "opaque_mfp_modifier",
+          "name": "Weight",
+          "type": "adsk::core::ColorProperty"
+        },
+        {
+          "id": "opaque_mfp_modifier_colorspace",
+          "name": "Color space",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "opaque_mfp_modifier_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "opaque_translucency",
+          "name": "Translucency",
+          "type": "adsk::core::BooleanProperty"
+        },
+        {
+          "id": "surface_albedo",
+          "name": "Color",
+          "type": "adsk::core::ColorProperty"
+        },
+        {
+          "id": "surface_albedo_colorspace",
+          "name": "Color space",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "surface_albedo_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_anisotropy",
+          "name": "Anisotropy",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "surface_anisotropy_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_cutout",
+          "name": "Image",
+          "type": "adsk::core::AppearanceTextureProperty"
+        },
+        {
+          "id": "surface_cutout_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_ndf_type",
+          "name": "NDF",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "surface_normal",
+          "name": "Image",
+          "type": "adsk::core::AppearanceTextureProperty"
+        },
+        {
+          "id": "surface_normal_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_rotation",
+          "name": "Rotation",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "surface_rotation_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_roughness",
+          "name": "Roughness",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "surface_roughness_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        }
+      ]
+    },
+    {
+      "name": "CP Inlet",
+      "properties": [
+        {
+          "id": "interior_model",
+          "name": "Material Type",
+          "type": "adsk::core::IntegerProperty"
+        },
+        {
+          "id": "opaque_albedo",
+          "name": "Color",
+          "type": "adsk::core::ColorProperty"
+        },
+        {
+          "id": "opaque_albedo_colorspace",
+          "name": "Color space",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "opaque_albedo_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "opaque_emission",
+          "name": "Emission",
+          "type": "adsk::core::BooleanProperty"
+        },
+        {
+          "id": "opaque_f0",
+          "name": "Reflectance",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "opaque_f0_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "opaque_luminance",
+          "name": "Emissive Luminance",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "opaque_luminance_modifier",
+          "name": "Luminance Scale",
+          "type": "adsk::core::ColorProperty"
+        },
+        {
+          "id": "opaque_luminance_modifier_colorspace",
+          "name": "Color space",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "opaque_luminance_modifier_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "opaque_mfp",
+          "name": "Depth",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "opaque_mfp_modifier",
+          "name": "Weight",
+          "type": "adsk::core::ColorProperty"
+        },
+        {
+          "id": "opaque_mfp_modifier_colorspace",
+          "name": "Color space",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "opaque_mfp_modifier_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "opaque_translucency",
+          "name": "Translucency",
+          "type": "adsk::core::BooleanProperty"
+        },
+        {
+          "id": "surface_albedo",
+          "name": "Color",
+          "type": "adsk::core::ColorProperty"
+        },
+        {
+          "id": "surface_albedo_colorspace",
+          "name": "Color space",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "surface_albedo_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_anisotropy",
+          "name": "Anisotropy",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "surface_anisotropy_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_cutout",
+          "name": "Image",
+          "type": "adsk::core::AppearanceTextureProperty"
+        },
+        {
+          "id": "surface_cutout_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_ndf_type",
+          "name": "NDF",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "surface_normal",
+          "name": "Image",
+          "type": "adsk::core::AppearanceTextureProperty"
+        },
+        {
+          "id": "surface_normal_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_rotation",
+          "name": "Rotation",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "surface_rotation_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_roughness",
+          "name": "Roughness",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "surface_roughness_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        }
+      ]
+    },
+    {
+      "name": "CP Interface",
+      "properties": [
+        {
+          "id": "interior_model",
+          "name": "Material Type",
+          "type": "adsk::core::IntegerProperty"
+        },
+        {
+          "id": "opaque_albedo",
+          "name": "Color",
+          "type": "adsk::core::ColorProperty"
+        },
+        {
+          "id": "opaque_albedo_colorspace",
+          "name": "Color space",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "opaque_albedo_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "opaque_emission",
+          "name": "Emission",
+          "type": "adsk::core::BooleanProperty"
+        },
+        {
+          "id": "opaque_f0",
+          "name": "Reflectance",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "opaque_f0_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "opaque_luminance",
+          "name": "Emissive Luminance",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "opaque_luminance_modifier",
+          "name": "Luminance Scale",
+          "type": "adsk::core::ColorProperty"
+        },
+        {
+          "id": "opaque_luminance_modifier_colorspace",
+          "name": "Color space",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "opaque_luminance_modifier_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "opaque_mfp",
+          "name": "Depth",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "opaque_mfp_modifier",
+          "name": "Weight",
+          "type": "adsk::core::ColorProperty"
+        },
+        {
+          "id": "opaque_mfp_modifier_colorspace",
+          "name": "Color space",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "opaque_mfp_modifier_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "opaque_translucency",
+          "name": "Translucency",
+          "type": "adsk::core::BooleanProperty"
+        },
+        {
+          "id": "surface_albedo",
+          "name": "Color",
+          "type": "adsk::core::ColorProperty"
+        },
+        {
+          "id": "surface_albedo_colorspace",
+          "name": "Color space",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "surface_albedo_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_anisotropy",
+          "name": "Anisotropy",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "surface_anisotropy_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_cutout",
+          "name": "Image",
+          "type": "adsk::core::AppearanceTextureProperty"
+        },
+        {
+          "id": "surface_cutout_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_ndf_type",
+          "name": "NDF",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "surface_normal",
+          "name": "Image",
+          "type": "adsk::core::AppearanceTextureProperty"
+        },
+        {
+          "id": "surface_normal_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_rotation",
+          "name": "Rotation",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "surface_rotation_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_roughness",
+          "name": "Roughness",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "surface_roughness_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        }
+      ]
+    },
+    {
+      "name": "CP Copper",
+      "properties": [
+        {
+          "id": "interior_model",
+          "name": "Material Type",
+          "type": "adsk::core::IntegerProperty"
+        },
+        {
+          "id": "opaque_albedo",
+          "name": "Color",
+          "type": "adsk::core::ColorProperty"
+        },
+        {
+          "id": "opaque_albedo_colorspace",
+          "name": "Color space",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "opaque_albedo_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "opaque_emission",
+          "name": "Emission",
+          "type": "adsk::core::BooleanProperty"
+        },
+        {
+          "id": "opaque_f0",
+          "name": "Reflectance",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "opaque_f0_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "opaque_luminance",
+          "name": "Emissive Luminance",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "opaque_luminance_modifier",
+          "name": "Luminance Scale",
+          "type": "adsk::core::ColorProperty"
+        },
+        {
+          "id": "opaque_luminance_modifier_colorspace",
+          "name": "Color space",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "opaque_luminance_modifier_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "opaque_mfp",
+          "name": "Depth",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "opaque_mfp_modifier",
+          "name": "Weight",
+          "type": "adsk::core::ColorProperty"
+        },
+        {
+          "id": "opaque_mfp_modifier_colorspace",
+          "name": "Color space",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "opaque_mfp_modifier_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "opaque_translucency",
+          "name": "Translucency",
+          "type": "adsk::core::BooleanProperty"
+        },
+        {
+          "id": "surface_albedo",
+          "name": "Color",
+          "type": "adsk::core::ColorProperty"
+        },
+        {
+          "id": "surface_albedo_colorspace",
+          "name": "Color space",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "surface_albedo_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_anisotropy",
+          "name": "Anisotropy",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "surface_anisotropy_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_cutout",
+          "name": "Image",
+          "type": "adsk::core::AppearanceTextureProperty"
+        },
+        {
+          "id": "surface_cutout_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_ndf_type",
+          "name": "NDF",
+          "type": "adsk::core::ChoiceProperty"
+        },
+        {
+          "id": "surface_normal",
+          "name": "Image",
+          "type": "adsk::core::AppearanceTextureProperty"
+        },
+        {
+          "id": "surface_normal_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_rotation",
+          "name": "Rotation",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "surface_rotation_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        },
+        {
+          "id": "surface_roughness",
+          "name": "Roughness",
+          "type": "adsk::core::FloatProperty"
+        },
+        {
+          "id": "surface_roughness_urn",
+          "name": "URN",
+          "type": "adsk::core::StringProperty"
+        }
+      ]
+    }
+  ],
+  "adapters": [
+    {
+      "component": "09 Inlet hose adapter | conceptual seat and barb",
+      "bodies": [
+        {
+          "name": "Body1",
+          "volume": 0.3896203208982234,
+          "min": [
+            3.49,
+            1.4900000000000002,
+            2.0
+          ],
+          "max": [
+            4.51,
+            2.51,
+            3.0
+          ]
+        },
+        {
+          "name": "Body2",
+          "volume": 0.33929200658771197,
+          "min": [
+            3.4000000000000004,
+            1.4000000000000004,
+            1.4
+          ],
+          "max": [
+            4.6,
+            2.5999999999999996,
+            1.8
+          ]
+        }
+      ]
+    },
+    {
+      "component": "10 Outlet hose adapter | conceptual seat and barb",
+      "bodies": [
+        {
+          "name": "Body1",
+          "volume": 0.3896203208982234,
+          "min": [
+            3.49,
+            9.49,
+            2.0
+          ],
+          "max": [
+            4.51,
+            10.51,
+            3.0
+          ]
+        },
+        {
+          "name": "Body2",
+          "volume": 0.33929200658771197,
+          "min": [
+            3.4000000000000004,
+            9.4,
+            1.4
+          ],
+          "max": [
+            4.6,
+            10.6,
+            1.8
+          ]
+        }
+      ]
+    }
+  ]
+}
